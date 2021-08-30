@@ -1,0 +1,6 @@
+export PATH=/SYSTEM/FDS/FDS6/bin:$PATH
+export LD_LIBRARY_PATH=/usr/lib64:/SYSTEM/FDS/FDS6/bin/LIB64:$LD_LIBRARY_PATH
+
+ulimit -s unlimited ulimit -v unlimited
+
+chmod 755 bin/xvfb-run
