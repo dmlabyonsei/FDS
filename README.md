@@ -11,7 +11,7 @@ Refer to the manual below on how to use the program on EDISON platform: https://
 1-3. Wall 
 1-4. Operator 
 
-2.Simulator 
+2. Simulator 
 
 # Material 
 ![B01](https://user-images.githubusercontent.com/25164461/137667228-53d72eb1-b46d-456c-9796-3b3a260f4c2b.jpg)
